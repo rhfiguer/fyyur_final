@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "flask/bin/python3.9"
+    "python.pythonPath": "env/bin/python",
+    "git.ignoreLimitWarning": true
 }
